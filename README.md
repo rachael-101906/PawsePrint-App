@@ -8,7 +8,7 @@ https://www.canva.com/design/DAGw5j66svs/CGmtlRIVDawGNxwamHud4A/view?utm_content
 
 Description of project
 
-For my final project for CS50, I created a mental health application called PawsePrint—a play on “pawprint” and “pause.” The app is designed to give students a way to take a mental break and unwind amid the constant chaos of life. Its interface aligns with Louisiana State University’s mascot and color schemes, making it especially tailored for LSU students.
+For my final project for CS50, I created a mental health application called PawsePrint—a play on“pawprint” and “pause.” The app is designed to give students a way to take a mental break and unwind amid the constant chaos of life. Its interface aligns with Louisiana State University’s mascot and color schemes, making it especially tailored for LSU students.
 
 The app includes several core features implemented across different views, including a journal entry prompt, background music selection, sticky notes, and LSU-specific mental health resources.
 
@@ -110,5 +110,5 @@ Lastly, there are two Identifiable structs for the TodoItem and the StickyNote, 
 
 ##### Note:
 
-This project was created with the assistance of Claude AI by Anthropic and ChatGPT by OpenAI. I used these tools to deepen my understanding of the code and gain valuable insight into Swift compared to other programming languages I have studied in the past. After building the project, I carefully reviewed the code to ensure I understood each component before submitting it to CS50. I also took notes on the functionality of the code and the structures best suited for certain situations. The use of AI resources does not diminish my own efforts in creating this project, as they served as a guide rather than a generator in my production of PawsePrint.
+This project was created with the assistance of Claude AI by Anthropic and ChatGPT by OpenAI. I used these tools to deepen my understanding of the code and gain valuable insight into Swift compared to other programming languages I have studied in the past. After building the project, I carefully reviewed the code to ensure I understood each component before submitting it to CS50. I also took notes on the functionality of the code and the structures best suited for certain situations. The use of AI resources does not diminish my own efforts in creating this project, as they served as a guide rather than a generator in my production of PawsePrint. Thank you!
 
